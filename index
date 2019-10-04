@@ -1,0 +1,16 @@
+Github
+a. Create and publish your own open source project: Write any simple program using your choice of programming language.
+17
+USCSP103
+b. Create a repository on github and save versions of your project. You’ll learn about the staging area, committing your code, branching, and merging,
+c. Using GitHub to Collaborate: Get practice using GitHub or other remote repositories to share your changes with others and collaborate on multi-developer projects. You’ll learn how to make and review a pull request on GitHub.
+d. Contribute to a Live Project: Students will publish a repository containing their reflections from the course and submit a pull request.
+7. Open Source Operating Systems
+a. Learn any open source operating system of your choice : Linux, Android, FreeBSD, Open Solaris etc.
+b. Learn the installation.
+c. Identify the unique features of the OS of your choice.
+8. Virtualization: Open Source virtualization technologies:
+a. Install and configure any one: VirtualBox, Zen, KVM
+b. Create and use virtual machines
+9. Containerization:
+a. Containerization technologies: docker, rocket
